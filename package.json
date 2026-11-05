@@ -1,0 +1,13 @@
+{
+  "name": "tybite",
+  "version": "1.0.0",
+  "description": "Bot de voz AFK",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "@discordjs/voice": "^0.18.0"
+  }
+}
